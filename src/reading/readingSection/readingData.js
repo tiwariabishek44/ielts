@@ -133,7 +133,7 @@ export const readingData = [
         ],
         questions: [
           { questionNo: 14, paragraphId: 1, correctHeading: 'A' },
-          { questionNo: 15, paragraphId: 2, correctHeading: 'D' },
+          // { questionNo: 15, paragraphId: 2, correctHeading: 'D' },
           { questionNo: 16, paragraphId: 3, correctHeading: 'E' }
         ]
       }
@@ -254,7 +254,8 @@ export const readingData = [
               'A. Deforestation',
               'B. Organic farming',
               'C. Industrial processes',
-              'D. Water conservation'
+              'D. Water conservation',
+              'E. Water conservation'
             ],
             answer: ['A', 'C']
           }

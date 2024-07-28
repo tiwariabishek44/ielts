@@ -7,7 +7,7 @@ import FillInTheBlankQuestion from './questionTypes/FillInBlanksQuestion';
 import FillInParagraphQuestion from './questionTypes/FillInParagraphQuestion';
 import MCQQuestion from './questionTypes/MCQQuestion';
 import HeadingMatchingQuestion from './questionTypes/MatchingHeadings';
-import { changePart, answerQuestion } from '../utils/actions';
+import { changePart, answerQuestion } from '../utils/actions'
 import Timer from './Timer';
 import styled from 'styled-components';
 
